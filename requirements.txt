@@ -1,0 +1,12 @@
+jupyter
+jupyterthemes
+lusid-sdk-preview
+openpyxl
+pandas
+pytz
+numpy
+requests
+lusidtools
+lusid-jam
+docstring-parser
+chevron
